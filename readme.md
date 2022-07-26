@@ -1,0 +1,1 @@
+avalon gaming の テストレポジトリです。  
